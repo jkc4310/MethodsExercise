@@ -3,10 +3,11 @@
 namespace MethodsExercise
 {
     public class Program
+       
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            
             // --------------Exercise 1--------------
             //Name: Kendall
             //Your Favorite Color
@@ -25,7 +26,13 @@ namespace MethodsExercise
             Console.WriteLine("Can you also tell me your favorite band?");
             var band = Console.ReadLine();
 
+            Console.WriteLine($"Thanks, {userName}, please see your profile below!");
+            Console.WriteLine("=======================");
 
+            Console.WriteLine($"Name:{userName}");
+            Console.WriteLine($"Favorite Color: {color}");
+            Console.WriteLine($"Favorite Animal: {animal}");
+            Console.WriteLine($"favorite Band: {band}");
 
 
         }
