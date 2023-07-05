@@ -1,0 +1,15 @@
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.AssemblyReference.cache
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfoInputs.cache
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.AssemblyInfo.cs
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.csproj.CoreCompileInputs.cache
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.deps.json
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.runtimeconfig.json
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.dll
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/bin/Debug/net6.0/MethodsExercise.pdb
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.dll
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/refint/MethodsExercise.dll
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.pdb
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/MethodsExercise.genruntimeconfig.cache
+/Users/kendallchapman/Repos/MethodsExercise/MethodsExercise/obj/Debug/net6.0/ref/MethodsExercise.dll
